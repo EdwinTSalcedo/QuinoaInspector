@@ -35,8 +35,27 @@ The dataset includes annotated images of quinoa grains and foreign bodies (straw
 - App code in `app/`
 
 ## Model
-We used \[Ultralytics YOLOv8s](https://github.com/ultralytics/ultralytics) trained on our dataset.
+We used [Ultralytics YOLOv8s](https://github.com/ultralytics/ultralytics) trained on our dataset.
 
 - Intersection over Union (IoU): **0.89**  
 - Lightweight for mobile deployment  
 - Training and evaluation scripts are available in `notebooks/`
+
+## 📖 Citation
+
+If you find this work useful in your project, please use the following reference:
+
+**IEEE format:**
+
+\[1\] E. Salcedo, C. Huanca, and P. Patzi, “Enabling Efficient Royal Quinoa Quality Inspection via Mobile‑based Foreign Body Detection,” in *2024 IEEE Latin American Conference on Computational Intelligence (LA‑CCI 2024)*, 2024, doi:10.1109/LA‑CCI62337.2024.10814753. 
+
+**BibTeX entry:**
+
+```bibtex
+@inproceedings{salcedo2024,
+  author    = {Edwin Salcedo and Ciro Huanca and Pedro Patzi},
+  title     = {Enabling Efficient Royal Quinoa Quality Inspection via Mobile‑based Foreign Body Detection},
+  booktitle = {Proceedings of the 2024 IEEE Latin American Conference on Computational Intelligence (LA‑CCI 2024)},
+  year      = {2024},
+  doi       = {10.1109/LA‑CCI62337.2024.10814753},
+}
