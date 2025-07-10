@@ -21,7 +21,7 @@ The proposed system includes:
 - A YOLOv8s model trained to detect foreign bodies in quinoa
 
 
-## 📦 Dataset
+## Dataset
 The dataset includes annotated images of quinoa grains and foreign bodies (straw, clods, stones). Format: YOLOv8. [Download the dataset](https://drive.google.com/file/d/1fAgeuET21HMf4vYWuqdvREwdbq6znlij/view?usp=sharing)
 
 ## Hardware Design
